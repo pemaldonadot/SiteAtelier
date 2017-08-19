@@ -8,6 +8,7 @@ header{
 	width: 100%;
 	height: 138px;
 	background: #51B47E; 
+	z-index: 2;
 }
 
 header .container{
@@ -19,8 +20,17 @@ header #logo{
 	top: 20px;
 }
 
-#banner{
+.geleia{
 	width: 100%;
 	height: 400px;
-	background: url("fotos/_MG_8532.jpg");
+	position: relative;
+	overflow: hidden;
 }
+
+.geleia img{
+	position: absolute;
+	/*left: 0;*/
+	right: 0;
+	/*margin: auto;*/
+}
+
