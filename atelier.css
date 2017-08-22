@@ -22,7 +22,7 @@ header #logo{
 
 .geleia{
 	width: 100%;
-	height: 400px;
+	height: 700px;
 	position: relative;
 	overflow: hidden;
 }
@@ -33,7 +33,7 @@ header #logo{
 }
 
 #apresentacao h2 {
-	color:#26A65B;
+	color:#90C695;
 	font-family: Verdana;
 	font-size: 30px;
 	text-align: center;
