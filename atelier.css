@@ -29,8 +29,37 @@ header #logo{
 
 .geleia img{
 	position: absolute;
-	/*left: 0;*/
 	right: 0;
-	/*margin: auto;*/
 }
 
+#apresentacao h2 {
+	color:#26A65B;
+	font-family: Verdana;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#apresentacao hr {
+	border:#87D37C solid 5px;
+	width: 500px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+#apresentacao .btn {
+	min-width: 164px;
+    height: 44px;
+    line-height: 34px;
+    border-radius: 0;
+}
+#apresentacao .btn {
+    color: #fff;
+    background-color: #26A65B;
+    border-color: #26A65B;
+}
+
+#apresentacao .row-max-400 {
+	margin: 0 auto;
+	max-width: 400px;
+}
