@@ -22,7 +22,7 @@ header #logo{
 
 .geleia{
 	width: 100%;
-	height: 700px;
+	height: 600px;
 	position: relative;
 	overflow: hidden;
 }
@@ -51,12 +51,12 @@ header #logo{
 	min-width: 164px;
     height: 44px;
     line-height: 34px;
-    border-radius: 0;
-}
-#apresentacao .btn {
-    color: #fff;
-    background-color: #26A65B;
-    border-color: #26A65B;
+    border-radius: 10;
+    font-weight: bold;
+    font-size: 15px;
+    color: #C8F7C5;
+    background-color: #1E824C;
+    border-color: #87D37C;
 }
 
 #apresentacao .row-max-400 {
