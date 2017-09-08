@@ -68,6 +68,10 @@ footer{
 	margin-top: 100px;
 }
 
+footer .row{
+	width: 100%;
+}
+
 footer .row-verde-escuro{
 	background: #1B5E20;
 	height: 200px;
