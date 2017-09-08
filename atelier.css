@@ -51,7 +51,7 @@ header #logo{
 	min-width: 164px;
     height: 44px;
     line-height: 34px;
-    border-radius: 10;
+    border-radius: 20;
     font-weight: bold;
     font-size: 15px;
     color: #C8F7C5;
@@ -62,4 +62,18 @@ header #logo{
 #apresentacao .row-max-400 {
 	margin: 0 auto;
 	max-width: 400px;
+}
+
+footer{
+	margin-top: 100px;
+}
+
+footer .row-verde-escuro{
+	background: #1B5E20;
+	height: 200px;
+}
+footer .row-verde-claro{
+	background: #9CCC65;
+	height: 60px;
+	border-top: #FFF 2px solid;
 }
