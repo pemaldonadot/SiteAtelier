@@ -77,3 +77,8 @@ footer .row-verde-claro{
 	height: 60px;
 	border-top: #FFF 2px solid;
 }
+
+footer .row-verde-claro p{
+	margin-top: 20px;
+	font-weight: bold;
+}
