@@ -68,9 +68,9 @@ footer{
 	margin-top: 100px;
 }
 
-footer .row{
+/*footer .row{
 	width: 100%;
-}
+}*/
 
 footer .row-verde-escuro{
 	background: #1B5E20;
@@ -89,4 +89,34 @@ footer .row-verde-claro p{
 
 footer .atelierlogo{
 	margin-top: 30px;
+}
+
+footer .colcomentarios{
+	font: Arial;
+	color: #9CCC65;
+}
+
+footer .colcomentarios h4{
+	color: #220;
+	text-align: center;
+	margin-top: 25px;
+	padding-bottom: 10px;
+	border-bottom: #9CCC65 1px solid;
+}
+
+footer .collinks{
+	font: Arial;
+	color: #9CCC65;
+}
+
+footer .collinks h4{
+	color: #220;
+	text-align: center;
+	margin-top: 25px;
+	padding-bottom: 10px;
+	border-bottom: #9CCC65 1px solid;
+}
+
+footer .collinks li{
+	margin: 25px 0;
 }
